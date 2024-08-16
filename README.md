@@ -15,7 +15,7 @@ Money spent on opening crates: 131€
   
 
   
-Packages Bought:	
+Packages needed:	
 
 1 package(s) of 7.880 crystgin for 100 Euro each	
 
