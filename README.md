@@ -12,9 +12,9 @@ Amount of Lightforge Ingots used(limit: 10): 8
 Crystgin spent on opening crates: 10.240	
 
 Money spent on opening crates: 131€	
+  
 
-
-
+  
 Packages Bought:	
 
 1 package(s) of 7.880 crystgin for 100 Euro each	
